@@ -1,0 +1,13 @@
+Question: Download LMStudio/Ollama/oobabooga and run it.
+
+Solution:
+Step 1: Go to https://github.com/oobabooga/text-generation-webui and download the repo.
+Step 2: Extract the .ZIP file.
+Step 3: Run the start_windows batch file.
+Step 4: Go to ai.meta.com/llama/ and download the model.
+Step 5: Fill in the details and submit. Models will be sent via email.
+Step 6: Go to HuggingFace and open meta-llama/Llama-2-7b.
+Step 7: Fill in the details and submit request. Grant will be sent via email.
+Step 8: Download the required model.
+Step 9: Copy the model name and paste it on the oobabooga webpage.
+Step 10: Run the model.

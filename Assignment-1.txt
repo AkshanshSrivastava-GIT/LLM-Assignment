@@ -1,0 +1,3 @@
+Question: Can algorithms like SMOTE/ROSE which synthesize new examples from the training data be called Generative AI?
+
+Solution: While SMOTE and ROSE do generate new synthetic examples, they are not typically categorized as Generative AI because their scope, complexity, and application domains are more limited and specific. Generative AI refers to a broader and more advanced set of models capable of generating a wide variety of data types by learning the underlying distribution of the training data.
